@@ -24,3 +24,5 @@ Thanks for the support of LOES, CISU, Gen Ukraine
 - [Bicycle Workshops in Eco-villages of Ukraine](https://medium.com/@rodovidme/bicycle-workshops-in-eco-villages-of-ukraine-94117d03f1c4)
 
 - [Video](https://www.youtube.com/watch?v=ibkPMlB4rZQ)
+
+- [Bicycle collection campaign](https://greenroad.in.ua/electric-bicycles-for-ua)
