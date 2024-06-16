@@ -1,6 +1,6 @@
 # ElectroBike Mobility in Ecovillages UA
 
-Four locations were selected for the establishment of bicycle workshops:
+Five locations were selected for the establishment of bicycle workshops:
 - Velesvit in Ternopil region
 - Svitankove in Sumy region
 - Salyntsi in Vinnytsia region [Instagram](https://www.instagram.com/veloselo_salinci?igsh=ZzI2ajduOWdoNHNx)
