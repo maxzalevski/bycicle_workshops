@@ -3,9 +3,11 @@
 Four locations were selected for the establishment of bicycle workshops:
 - Velesvit in Ternopil region
 - Svitankove in Sumy region
-- Salentsi in Vinnytsia region
+- Salyntsi in Vinnytsia region [Instagram](https://www.instagram.com/veloselo_salinci?igsh=ZzI2ajduOWdoNHNx)
 - Misto Sontsya in Dnipropetrovsk region
+- Lubodarove in Vinnytsia region
 
+Coordinator Yuriy Lubodar [Linkedin](https://www.linkedin.com/in/ybere) 
 Handing over a new electric bike to activist Hanna Gronska in the Busha settlement.
 The e-bike was made from a Danish bicycle that was sent as part of humanitarian support
 The bike has been refurbished by a bike workshop in Salyntsi
