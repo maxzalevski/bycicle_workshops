@@ -8,6 +8,7 @@ Four locations were selected for the establishment of bicycle workshops:
 - Lubodarove in Vinnytsia region
 
 Coordinator Yuriy Lubodar [Linkedin](https://www.linkedin.com/in/ybere) 
+
 Handing over a new electric bike to activist Hanna Gronska in the Busha settlement.
 The e-bike was made from a Danish bicycle that was sent as part of humanitarian support
 The bike has been refurbished by a bike workshop in Salyntsi
