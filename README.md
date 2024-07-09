@@ -4,7 +4,7 @@ Five locations were selected for the establishment of bicycle workshops:
 - Velesvit in Ternopil region
 - Svitankove in Sumy region
 - Salyntsi in Vinnytsia region [story](https://github.com/maxzalevski/bycicle_workshops/issues/4) [Instagram](https://www.instagram.com/veloselo_salinci?igsh=ZzI2ajduOWdoNHNx)
-- Misto Sontsya in Dnipropetrovsk region
+- Misto Sontsya in Dnipropetrovsk region [story](https://github.com/maxzalevski/bycicle_workshops/issues/2)
 - Lubodarove in Vinnytsia region
 
 Coordinator Yuriy Lubodar [Linkedin](https://www.linkedin.com/in/ybere) 
