@@ -1,7 +1,7 @@
 # ElectroBike Mobility in Ecovillages UA
 
 Five locations were selected for the establishment of bicycle workshops:
-- Velesvit in Ternopil region
+- Velesvit in Ternopil region 
 - Svitankove in Sumy region [story](https://github.com/maxzalevski/bycicle_workshops/issues/5)
 - Salyntsi in Vinnytsia region [story](https://github.com/maxzalevski/bycicle_workshops/issues/4) [Instagram](https://www.instagram.com/veloselo_salinci?igsh=ZzI2ajduOWdoNHNx)
 - Misto Sontsya in Dnipropetrovsk region [story](https://github.com/maxzalevski/bycicle_workshops/issues/2)
@@ -19,10 +19,18 @@ Thanks for the support of LOES, CISU, Gen Ukraine
 ![velo1](https://github.com/maxzalevski/bycicle_workshops/assets/132265629/95f88ede-0386-4b64-9bde-03ed73559591)
 
 
-## Bycicle workshops in Ukraine
+## Bicycle workshops in Ukraine
 
 - [Bicycle Workshops in Eco-villages of Ukraine](https://medium.com/@rodovidme/bicycle-workshops-in-eco-villages-of-ukraine-94117d03f1c4)
 
 - [Video](https://youtu.be/0XvsJDqC3SA)
 
 - [Bicycle collection campaign](https://greenroad.in.ua/electric-bicycles-for-ua)
+
+## Grants
+
+[Revitalizing bike workshops to Support Ecovillages](https://giveth.io/project/revitalizing-bike-workshops-to-support-ecovillages)
+
+## Off Grid Solutions
+
+- [Power Banks for Routers by Ecovillage Velesvit: Solving Blackout Challenges](https://github.com/maxzalevski/bycicle_workshops/issues/6)
