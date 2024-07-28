@@ -29,7 +29,7 @@ Thanks for the support of LOES, CISU, Gen Ukraine
 
 ## Grants
 
-[Revitalizing bike workshops to Support Ecovillages](https://giveth.io/project/revitalizing-bike-workshops-to-support-ecovillages)
+- [Revitalizing bike workshops to Support Ecovillages](https://giveth.io/project/revitalizing-bike-workshops-to-support-ecovillages)
 
 ## Off Grid Solutions
 
