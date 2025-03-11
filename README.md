@@ -32,6 +32,7 @@ Thanks for the support of LOES, CISU, Gen Ukraine
 - [Inspiring Collaboration in Lviv: GEN Ukraine Meets Solarpunk Nomads](https://github.com/maxzalevski/bycicle_workshops/issues/9)
 
 ## Grants
+- Climate program
 
 - [Revitalizing bike workshops to Support Ecovillages](https://giveth.io/project/revitalizing-bike-workshops-to-support-ecovillages)
 
